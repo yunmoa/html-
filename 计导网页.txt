@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <title>计算机技术导论</title>
+  </head>
+  <body>
+   <a href="https://www.docin.com/p-1936051533.html">跳转到计算机学科概述 </a>
+   <br/>
+   <a href="https://www.zhihu.com/question/20102212">人工智能介绍与前瞻 </a>
+   <br/>
+   <a href="https://baike.baidu.com/item/%E5%A4%A7%E6%95%B0%E6%8D%AE/1356941">大数据又是什么？ </a>
+   <p>
+       小时候，在我的印象中，<i>计算机专业</i>就是培养出一个一个的程序员，而一直以来人们甚至也可能一直这么想。但在新时代的背景中，计算机专业早
+     就被赋予了更为丰富的含义。首先对于就业范围来说，这个专业在如今社会很多岗位都有很好的结合性，也就是说与很多岗位都可以进行合作，
+     这个专业的就业范围比较广。其次对于专业应用，计算机在目前的应用很广泛，在人工智能，软件开发，信息管理等等领域都离不开计算机，
+     很多大型的工程对计算机的依赖性更大。最后对于个人的要求，计算机在目前的发展速度极快，这个领域有很好的发展前景。<b>所以综合来看</b>，
+     计算机专业是知识赋能产业，在许多年前，它就十分火热，十分抢手。很多人会说，今天它的势头仍然不弱。是的，在今天，计算机已经不像以前那样
+     有很多空闲的滩头，到今天这个阶段，其实更多拼的是创新，未来也一样。
+   </p>
+   <ul>
+   <li>对未来的规划</li>
+   <li>在大学的四年中至少学好学精一门计算机语言</li>
+   <li>其他的计算机语言要有所涉猎，并掌握一定的计算机学术英语</li>
+   <li>通过必要的计算机证书</li>
+   <li>确定努力方向和专攻职位</li>
+   <li>找好心仪的大厂（工作单位）</li>
+   <li>并为之不懈努力</li>
+   </ul>
+   <a href="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg-blog.csdnimg.cn%2F20210302094006321.JPG%3Fx-oss-process%3Dimage%2Fwatermark%2Ctype_ZmFuZ3poZW5naGVpdGk%2Cshadow_10%2Ctext_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L25hcnV0bzIyNw%3D%3D%2Csize_16%2Ccolor_FFFFFF%2Ct_70%23pic_cente&refer=http%3A%2F%2Fimg-blog.csdnimg.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1644327090&t=22df9631c00ed34a3c220f1b65a4d3fa">计算机各领域专业关系图 </a>
+  </body>
+  </html>
